@@ -1,0 +1,55 @@
+
+body, html {margin:0px auto;
+}
+#container
+{width:800px;
+height:600px;
+background-image: url(../i/container.jpg);
+margin:0 auto;
+margin-top:100px;
+}
+
+#header
+{
+height:77px;}
+
+#left
+{
+	float:left;
+	margin-left:33px;
+	margin-top:110px;
+	width:130px;
+height:250px;}
+
+#content
+{
+	background-image:url(../i/content.jpg);
+width:562px;
+margin-left:170px;
+height:452px;
+overflow: auto; 
+}
+
+#clear
+{height:0;
+clear:both;
+font-size:1px;
+line-height:0;
+}
+
+#footer
+{
+	margin-top:-100px;
+width:800px;
+border:0;
+
+}
+
+#rasporka
+{height:100px;
+	border:0;
+
+}
+
+
+
